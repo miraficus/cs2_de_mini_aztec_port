@@ -1,0 +1,25 @@
+19:11:58.224 INFO  Loading C:\Users\Admin\Downloads\MiniAztec\de_mini_aztec.bsp
+19:11:58.267 INFO  Using 'DStaticPropV11CSGO' for sprp version 11
+19:11:58.269 WARN  Lump LUMP_CUBEMAPS is empty
+19:11:58.274 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+19:11:58.276 WARN  Lump LUMP_DISP_MULTIBLEND is empty
+19:11:58.280 WARN  Lump LUMP_OVERLAYS is empty
+19:11:58.281 WARN  Lump LUMP_OVERLAY_FADES is empty
+19:11:58.281 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+19:11:58.282 INFO  BSP version: 21
+19:11:58.282 INFO  Game: Counter-Strike: Global Offensive
+19:11:58.294 INFO  No areaportals to reallocate...
+19:11:58.295 INFO  No occluders to reallocate...
+19:11:58.301 INFO  Map comment: Decompiled by BSPSource v1.4.0 from de_mini_aztec_fix
+19:11:58.359 INFO  2150 (30.0%) exact brushside->origface matches
+19:11:58.360 INFO  11/93 (nondisp/disp) original faces left after exact brushside->origface matching
+19:11:58.375 INFO  67 (0.9%) partial brushside->origface matches
+19:11:58.376 INFO  Writing brushes and planes
+19:11:58.443 INFO  Writing displacements
+19:11:58.460 INFO  Writing entities
+19:11:58.475 INFO  Writing func_details
+19:11:58.507 INFO  Writing func_viscluster
+19:11:58.509 INFO  Writing info_overlays
+19:11:58.509 INFO  Writing prop_statics
+19:11:58.513 INFO  Writing env_cubemaps
+19:11:58.515 INFO  Finished decompiling C:\Users\Admin\Downloads\MiniAztec\de_mini_aztec.bsp.
